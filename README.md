@@ -1,7 +1,7 @@
 # John-A-Craft
 A Minecraft resource pack for the Buddhism Hotline. 
 
-**Make sure to set your lang to english in game for the custom item names!** Feel free to request another english! 
+**Make sure to set your lang to english in game for the custom item names!** Feel free to request another language! 
 
 Created and Maintained by Bren00x#8197
 
