@@ -6,7 +6,7 @@ A Minecraft resource pack for the Buddhism Hotline.
 Created and Maintained by Bren00x#8197
 
 Future textures provided by:
-Oblivifrek#5780 - Books (Future)
+Oblivifrek#5780 - Books (Future)  
 Rahul#3945 - Zombie (Future)
 
 
