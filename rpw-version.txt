@@ -1,0 +1,8 @@
+Generator debug info
+--------------------
+
+RPW version:  4.5.2 on Mac OS X
+Java version: Java(TM) SE Runtime Environment 1.8.0_101
+MC+assets v.: 1.12.2
+
+Generated:    2018/07/21
